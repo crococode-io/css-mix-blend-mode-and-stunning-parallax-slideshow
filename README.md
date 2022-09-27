@@ -1,6 +1,6 @@
 # CSS mix-blend-mode & Stunning Parallax Slideshow
 
-An interesting parallax slideshow with simple type effect to see how CSS mix-blend-mode property works. 
+An interesting parallax slideshow with simple type effect to see how CSS mix-blend-mode property works.
 
 ![CSS mix-blend-mode & Stunning Parallax Slideshow](https://raw.githubusercontent.com/crococode-io/images/main/css-mix-blend-mode-and-stunning-parallax-slideshow.png)
 
